@@ -78,8 +78,10 @@
         }
     }
 
+    // needs to be checked
+/*
     if (queue.Count == 0 && stack.Count != 1)
     {
         Console.WriteLine("Error: Missing '='.");
-    }
+    }*/
 }
